@@ -1,8 +1,5 @@
 # disk_scheduling
 
-# further details
-
-the following project is command based disk scheduling simulation.
 # 1.Introduction
 
 Since the emergence of computers, hardware technology has been evolving at a
