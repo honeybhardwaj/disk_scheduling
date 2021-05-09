@@ -1,5 +1,15 @@
 ![disk_scheduling](https://socialify.git.ci/honeybhardwaj/disk_scheduling/image?description=1&descriptionEditable=CLI%20Based%20Disk%20Scheduling%20Simulation&forks=1&issues=1&language=1&owner=1&stargazers=1&theme=Light)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
+<hr>
+## Description of Repo
+The following is a command line interface for Disk Scheduling simulation. it implements various disk scheduling algorithms that we have studies such as
+- SSTF
+- FCFS
+- SCAN
+- CSCAN
+- LOOK
+- CLOOK
+The project consist of a menu driven program which even have a features like a loading bar. There is a demo video attached in Repo you can have a look on it.
 
 <hr>
 
